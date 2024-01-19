@@ -1,4 +1,8 @@
-# Set up
+# Week 1 Tasks
+
+Below are the tasks for week 1, you will require many of the tags introduced in the lecture
+
+## Set up
 First, I would suggest you install [Visual Studio Code](https://code.visualstudio.com/) if you haven't done so already.  
 I'm not set on you using VSCode should you wish to use something else, but all demos for this unit will be done using VSCode and I cannot guarantee the same level of features exist in other environments.
 
